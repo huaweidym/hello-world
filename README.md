@@ -1,2 +1,3 @@
 # hello-world
-repository
+Hi Humans！
+Timmy here, I like China. And China is my motherland.
